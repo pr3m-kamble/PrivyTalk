@@ -24,10 +24,10 @@ PrivyTalk is a secure and user-friendly real-time messaging application designed
 ### Installation Instructions:
 1. Install Python (if not already installed).
 2. Clone the repository:  
-   `git clone <your-repository-url>`
+   ```git clone https://github.com/pr3m-kamble/PrivyTalk```
 3. Navigate to the project directory and run the scripts:
-   - `python server.py`
-   - `python client.py`
+   - ```python server.py```
+   - ```python client.py```
    
 Enjoy secure messaging with PrivyTalk!
 
