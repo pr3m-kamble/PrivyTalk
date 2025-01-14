@@ -2,13 +2,12 @@
 #### Video Demo:  <URL HERE>
 #### Description:
 My final project for CS50x, PrivyTalk. 
-PrivyTalk is a secure and user-friendly real-time messaging application designed for private conversations within an enterprise setting. The application allows employees to communicate securely and privately, ensuring that sensitive information is protected.
+PrivyTalk is a secure and user-friendly real-time messaging application designed for private conversations in an enterprise environment. The application allows employees to communicate securely and privately, ensuring that sensitive information is protected.
 
 ### Key Features:
 - **Real-time Messaging**: Enables instant communication between users.
-- **Secure Communication**: End-to-end encryption guarantees privacy.
 - **User-friendly Interface**: Simple, intuitive design for easy usage by all employees.
-- **Multi-threaded**: Ensures smooth performance, even with multiple users simultaneously connected.
+
 
 ### Technologies Used:
 - Python
