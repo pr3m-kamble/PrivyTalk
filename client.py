@@ -83,7 +83,7 @@ def on_closing():
 # Initialize GUI
 root = tk.Tk()
 root.geometry("600x700")
-root.title("Enterprise Messenger")
+root.title("PrivyTalk")
 root.configure(bg=DARK_GREY)
 root.protocol("WM_DELETE_WINDOW", on_closing)
 
