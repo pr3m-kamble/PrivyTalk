@@ -1,6 +1,7 @@
-# PrivyTalk
+# PrivyTalk 
 #### Video Demo:  <URL HERE>
 #### Description:
+My final project for CS50x, PrivyTalk. 
 PrivyTalk is a secure and user-friendly real-time messaging application designed for private conversations within an enterprise setting. The application allows employees to communicate securely and privately, ensuring that sensitive information is protected.
 
 ### Key Features:
@@ -32,8 +33,6 @@ PrivyTalk is a secure and user-friendly real-time messaging application designed
 Enjoy secure messaging with PrivyTalk!
 
 ### Contact Information:
-- **GitHub**: [Your GitHub Username]
-- **edX**: [Your edX Username]
-- **Location**: [Your City, Your Country]
-- **Date**: [The Date You Recorded the Video]
+- **GitHub**: [pr3m-kamble](https://github.com/pr3m-kamble)
+
 
