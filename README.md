@@ -1,5 +1,5 @@
 # PrivyTalk 
-#### Video Demo:  <URL https://youtu.be/Znyp5TWAZmM>
+#### Video Demo:  https://youtu.be/Znyp5TWAZmM
 #### Description:
 My final project for CS50x, PrivyTalk. 
 PrivyTalk is a secure and user-friendly real-time messaging application designed for private conversations in an enterprise environment. The application allows employees to communicate securely and privately, ensuring that sensitive information is protected.
